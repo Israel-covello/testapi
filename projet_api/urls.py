@@ -24,7 +24,7 @@ router = routers.DefaultRouter()
 router.register(r'users', views.UserViewSet)
 router.register(r'groups', views.GroupViewSet)
 
-# Conecte nossa API usando o roteamento automático de URL.
+# Conecta a API usando o roteamento automático de URL.
 # Além disso, incluímos URLs de login para a API navegável.
 
 urlpatterns = [
