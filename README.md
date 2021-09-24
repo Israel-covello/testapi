@@ -1,2 +1,3 @@
 # testapi
-Criando API Rest com Django e Django Rest Framework
+Criando API com Django Rest Framework
+Usando exemplos da documentação.
